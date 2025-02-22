@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import VideoPage from './pages/VideoPage';
-import ReportGenerator from './pages/ReportGenerator/ReportGenerator';
+import ReportGenerator from './pages/ReportGenerator/index';
 import transcriptData from './assets/transcript.json';
 
 const App = () => {
