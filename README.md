@@ -172,27 +172,27 @@ Meet the visionaries behind Shiksha Sankalp:
 <table>
   <tr>
     <td align="center">
-      <img src="https://shikshasankalp.vercel.app/assets/team/kishore.png" width="100px"><br>
-      <b>Kishore S R</b><br>
-      Team Lead & Full Stack Developer<br>
-      <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
-    </td>
-    <td align="center">
-      <img src="https://shikshasankalp.vercel.app/assets/team/harshavardhan.png" width="100px"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQHdyu_pxSv_wA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724525724964?e=1750291200&v=beta&t=YOYj6NBmQJKhQJ38PNQ3-F8uO2Klop1xY_SIsTVSi94" width="100px"><br>
       <b>Harshavardhan M</b><br>
-      Frontend Developer<br>
+      Back-end Developer, AI Integration<br>
       <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://shikshasankalp.vercel.app/assets/team/hitesh.png" width="100px"><br>
+      <img src="https://net-worthy.web.app/assets/team/Kishore-SR.png" width="100px"><br>
+      <b>Kishore S R</b><br>
+      UI/UX Designer, Front-end Developer<br>
+      <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="https://net-worthy.web.app/assets/team/Hitesh-P.jpg" width="100px"><br>
       <b>Hitesh P</b><br>
-      Data Visualization Specialist<br>
+      Back-end Developer, AI Integration<br>
       <a href="https://www.linkedin.com/in/hitesh-p-aa55662a3">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://shikshasankalp.vercel.app/assets/team/jeevan.png" width="100px"><br>
+      <img src="https://net-worthy.web.app/assets/team/Jeevan-N.jpg" width="100px"><br>
       <b>Jeevan N</b><br>
-      Backend Developer<br>
+      Quality Assurance Tester, UI Designer<br>
       <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
     </td>
   </tr>
